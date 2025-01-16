@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.time  {
+    font-size: 150px;
+    width: 300px;
+    height: 250;
+    font-family: "Tourney";
+    color: rgb(164, 173, 31);
+    font-family: "Tourney", serif;
+    font-optical-sizing: auto;
+    font-weight: 80;
+    font-style: normal;
+    font-variation-settings: 100;   
+}
